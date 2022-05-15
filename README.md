@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Paul Bernius</h1>
 <h3 align="center">A passionate computer science student at Oklahoma State University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paulbernius&label=Profile%20views&color=0e75b6&style=flat" alt="paulbernius" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=paulbernius&label=Profile%20views&color=0e75b6&style=flat" alt="paulbernius" /> </p>
 
 - 🌱 I’m currently enrolled in **Organization of Programming Languages**
 
