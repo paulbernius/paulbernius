@@ -21,17 +21,17 @@ Here are some ideas to get you started:
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=paulbernius&label=Profile%20views&color=0e75b6&style=flat" alt="paulbernius" /> </p>
 
-- 🌱 I’m currently enrolled in **Organization of Programming Languages**
+- 🌱 I’m currently enrolled in **Software Engineerings, Numerical Methods, Linear Algebra**
 
-- 🤝 I’m looking for help with **gaining an internship for Summer 2022**
+- 🤝 I’m looking for** a full-time software engineering position**
 
-- 👨‍💻 All of my projects are available at [http://cs.okstate.edu/~pberniu/projects.html](http://cs.okstate.edu/~pberniu/projects.html)
+- 👨‍💻 All of my projects are available at [https://cs.okstate.edu/~pberniu/#projects](https://cs.okstate.edu/~pberniu/#projects)
 
-- 📝 I regularly write articles on [http://cs.okstate.edu/~pberniu/](http://cs.okstate.edu/~pberniu/)
+- 📝 I will regularly write articles on [http://cs.okstate.edu/~pberniu/](http://cs.okstate.edu/~pberniu/)
 
 - 📫 How to reach me **paul.bernius@okstate.edu**
 
-- 📄 Know about my experiences [http://cs.okstate.edu/~pberniu/Resume.pdf](http://cs.okstate.edu/~pberniu/Resume.pdf)
+- 📄 Know about my experiences [http://cs.okstate.edu/~pberniu](http://cs.okstate.edu/~pberniu)
 
 - ⚡ Fun fact **I enjoy video games, friends and learning about CS**
 
