@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently enrolled in **Software Engineerings, Numerical Methods, Linear Algebra**
 
-- 🤝 I’m looking for** a full-time software engineering position**
+- 🤝 I’m looking for **a full-time software engineering position**
 
 - 👨‍💻 All of my projects are available at [https://cs.okstate.edu/~pberniu/#projects](https://cs.okstate.edu/~pberniu/#projects)
 
