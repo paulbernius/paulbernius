@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://cs.okstate.edu/~pberniu/#projects](https://cs.okstate.edu/~pberniu/#projects)
 
-- 📝 I will regularly write articles on [http://cs.okstate.edu/~pberniu/](http://cs.okstate.edu/~pberniu/)
-
 - 📫 How to reach me **paul.bernius@okstate.edu**
 
 - 📄 Know about my experiences [http://cs.okstate.edu/~pberniu](http://cs.okstate.edu/~pberniu)
