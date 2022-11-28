@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for **a full-time software engineering position**
 
-- 👨‍💻 All of my projects are available at [https://cs.okstate.edu/~pberniu/#projects](https://cs.okstate.edu/~pberniu/#projects)
+- 👨‍💻 All of my projects are available at [Projects](https://cs.okstate.edu/~pberniu/#projects)
 
 - 📫 How to reach me **paul.bernius@okstate.edu**
 
-- 📄 Know about my experiences [http://cs.okstate.edu/~pberniu](https://drive.google.com/file/d/1TNALR66nwZklDRTUBoA5r977pbeoXB7V/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1TNALR66nwZklDRTUBoA5r977pbeoXB7V/view)
 
 - ⚡ Fun fact **I enjoy video games, friends and learning about CS**
 
